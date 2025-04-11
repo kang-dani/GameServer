@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203AB703-E1A4-48C7-8F24-315C0D76B57F}|GameServer\\GameServer.vcxproj|C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203AB703-E1A4-48C7-8F24-315C0D76B57F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316AA91-36FB-4234-9302-C9611928CA05}|GameClient\\GameClient.vcxproj|C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\GameClient\\GameClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0316AA91-36FB-4234-9302-C9611928CA05}|GameClient\\GameClient.vcxproj|solutionrelative:GameClient\\GameClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameClient.cpp",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\GameClient\\GameClient.cpp",
+              "RelativeDocumentMoniker": "GameClient\\GameClient.cpp",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\GameClient\\GameClient.cpp",
+              "RelativeToolTip": "GameClient\\GameClient.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T00:58:27.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServer.cpp",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\GameServer\\GameServer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\CppServer\\GameServer\\GameServer\\GameServer\\GameServer.cpp",
+              "RelativeToolTip": "GameServer\\GameServer.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswFUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T00:48:32.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
